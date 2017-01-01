@@ -16,11 +16,6 @@
 @property(nonatomic,strong) NSArray *array_Month;
 
 
-
-
-
-
-
 - (void)barChartView:(NSArray *)array_Progress withChartViewColor:(UIColor *)backGroundColor;
 
 
