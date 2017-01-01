@@ -26,4 +26,4 @@
 
 # 效果演示图
 
-![Image](https://github.com/KBvsMJ/EBTChartDemo/blob/master/gif/1.gif)
+![Image](https://github.com/KBvsMJ/EBTChartViewDemo/blob/master/gif/1.gif)
