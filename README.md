@@ -1,6 +1,9 @@
 # 动态创建直方图图表(cocoapods)
 
-使用指令  pod 'EBTBarChartView', '~> 0.0.1' 把该库添加到项目中
+##使用指令把该库添加到项目中:
+```
+  pod 'EBTBarChartView'
+```
 
 #在xib或者sb上拖一个view在控制器上面并设置view的class为:EBTBarChartView,
 
